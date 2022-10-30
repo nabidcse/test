@@ -1,0 +1,15 @@
+ali 3000 day2_ramen #####>
+rayhan 10000 ananya,anika,rayhan,sezan #####>
+tamim 2000 only_day2,ali,anika,mim,sezan #####>
+rafa2 2008 only_day2,ali,mim,sezan,day2_day3 #####>taxi
+sezan 200 day1,tamim,mim #####>taxi
+shakhwat 6000 day1,tamim,mim,day2_day3 #####>taxi
+tanwi 500 tamim,mim,rayhan,tanwi #####>taxi
+tanoy 3000 tamim,mim,rayhan,tanwi,only_day2 #####>taxi
+ali 3000 mim,rayhan,only_day2,tanoy,anika #####>taxi
+mohammad 3006 mim,rayhan,only_day2,tanoy,anika,mohammad,shovon #####>no comment
+tanoy 2996 mim,rayhan,only_day2,tanoy,anika,mohammad,shovon,ananya,ali #####>no comment
+rafa 5000 rayhan,tanoy,ananya,masud #####>no comment
+anika 5000 rayhan,tanoy,ananya,masud #####>no comment
+masud 3000 rayhan,tanoy,ananya,masud,day2_day3 #####>no comment
+rayhan 30000 day1,only_day2,day2_day3,day2_ramen #####>no comment

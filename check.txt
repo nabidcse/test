@@ -1,0 +1,15 @@
+sezan 21600 default #>hotel booking
+sezan 31250 default #>Nikko pass
+sezan 1500 default #>second day nasta
+sezan 5800 ali,sezan,md,nabid #>second day train
+ali 1500 nabid #>kebab & balish
+sezan 1153 nabid #>day 1 gusto
+sezan 933 md #>day 1 gusto
+sezan 1153 rayhan #>day 1 gusto
+sezan 1702 ali #>day 1 gusto
+sezan 0 sezan #>day 1 gusto: did not mention
+ali 850 nabid #>day 2 kebab
+ali 1200 md #>day 2 kebab
+ali 2450 sezan #>day 2 kebab
+ali 0 ali #>day 2 kebab: did not mention
+ali 330 rayhan #>day 1 gusto: corn half

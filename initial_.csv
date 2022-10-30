@@ -1,0 +1,16 @@
+who_paid,amount,ali,anika,rayhan,sezan,mim,tamim,rafa2,shakhwat,rafa,masud,ananya,tanoy,tanwi,mohammad,shovon
+ali,3000,True,False,True,True,False,False,False,False,False,False,False,False,False,True,True
+rayhan,10000,False,True,True,True,False,False,False,False,False,False,True,False,False,False,False
+tamim,2000,True,True,False,True,True,True,True,True,True,False,False,False,False,False,False
+rafa2,2008,True,True,True,True,True,True,True,True,True,True,True,True,True,False,False
+sezan,200,True,True,True,True,True,True,False,False,False,False,False,False,False,False,False
+shakhwat,6000,True,True,True,True,True,True,False,False,False,True,True,True,True,False,False
+tanwi,500,False,False,True,False,True,True,False,False,False,False,False,False,True,False,False
+tanoy,3000,False,False,True,False,True,True,True,True,True,False,False,False,True,False,False
+ali,3000,False,True,True,False,True,True,True,True,True,False,False,True,False,False,False
+mohammad,3006,False,True,True,False,True,True,True,True,True,False,False,True,False,True,True
+tanoy,2996,True,True,True,False,True,True,True,True,True,False,True,True,False,True,True
+rafa,5000,False,False,True,False,False,False,False,False,False,True,True,True,False,False,False
+anika,5000,False,False,True,False,False,False,False,False,False,True,True,True,False,False,False
+masud,3000,True,True,True,True,True,False,False,False,False,True,True,True,True,False,False
+rayhan,30000,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True
